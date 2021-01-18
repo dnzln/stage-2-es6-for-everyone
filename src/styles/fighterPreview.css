@@ -11,3 +11,25 @@
 .fighter-preview___left {
   align-items: flex-start;
 }
+
+.fighter-preview___img {
+  max-height: 295px;
+  align-self: center;
+}
+
+.fighter-preview___info {
+  align-self: center;
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+  background-color: #0000005e;
+  color: #f8f9f4;
+  font-size: 18px;
+  font-family: Arial;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.fighter-preview___info-thin {
+  font-weight: normal;
+}
